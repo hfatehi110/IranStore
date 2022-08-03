@@ -44,7 +44,7 @@ namespace Catalog.API.Repositories
         }
 
         public async Task<IEnumerable<Product>> GetProducts()
-        {
+         {
             return await _catalogContext.Products.Find(x => true).ToListAsync();
         }
 

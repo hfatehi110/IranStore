@@ -25,7 +25,7 @@ namespace Catalog.API.Controllers
             return Ok(products);
         }
 
-        [HttpGet("{id:lenght(24)}", Name = "GetProduct")]
+        [HttpGet("{id}", Name = "GetProduct")]
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
         [ProducesResponseType(typeof(Type), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<Product>> GetProductById(string id)
@@ -65,7 +65,7 @@ namespace Catalog.API.Controllers
         }
 
 
-        [HttpDelete("{id : lenght(24)}",Name = "DeleteProduct")]
+        [HttpDelete("{id}",Name = "DeleteProduct")]
         [ProducesResponseType(typeof(bool),(int)HttpStatusCode.OK)]
         public async Task<IActionResult> DeleteProduct(string id)
         {
