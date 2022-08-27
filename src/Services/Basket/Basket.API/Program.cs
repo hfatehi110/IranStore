@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 ConfigurationManager configuration = builder.Configuration;
 builder.Services.AddStackExchangeRedisCache(options =>
 {
-    options.Configuration = "127.0.0.1:6379";
+    options.Configuration = configuration.GetValue<string>("CacheSetting:connectionString");// "127.0.0.1:6379";
 });
 // Add services to the container.
 
