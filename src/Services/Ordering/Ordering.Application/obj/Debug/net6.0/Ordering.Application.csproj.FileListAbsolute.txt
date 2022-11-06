@@ -1,0 +1,15 @@
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.csproj.AssemblyReference.cache
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.AssemblyInfoInputs.cache
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.AssemblyInfo.cs
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.csproj.CoreCompileInputs.cache
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Application.deps.json
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Application.dll
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Application.pdb
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Domain.dll
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Domain.pdb
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.csproj.CopyComplete
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.dll
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\refint\Ordering.Application.dll
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.pdb
+G:\Works\IranStore\src\Services\Ordering\Ordering.Application\obj\Debug\net6.0\ref\Ordering.Application.dll

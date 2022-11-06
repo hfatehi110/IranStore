@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "Dq05Wuau+KWr4ZiWDBEYHoFeOLfZvN0PDgbMq+PaKiE=",
+  "Hash": "4kr9AWWrlllFFySnlviHkWyf4QkS+J2+f5KS75One34=",
   "Source": "Basket.API",
   "BasePath": "_content/Basket.API",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "G:\\Works\\IranStore\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
+      "Version": 2,
+      "Source": "Discount.Grpc",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

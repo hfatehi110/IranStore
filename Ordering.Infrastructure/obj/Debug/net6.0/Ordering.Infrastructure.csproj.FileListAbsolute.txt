@@ -1,0 +1,17 @@
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfo.cs
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Works\IranStore\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.deps.json
+G:\Works\IranStore\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.dll
+G:\Works\IranStore\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.pdb
+G:\Works\IranStore\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.dll
+G:\Works\IranStore\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.dll
+G:\Works\IranStore\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.pdb
+G:\Works\IranStore\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.pdb
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CopyComplete
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.dll
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\refint\Ordering.Infrastructure.dll
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.pdb
+G:\Works\IranStore\Ordering.Infrastructure\obj\Debug\net6.0\ref\Ordering.Infrastructure.dll
