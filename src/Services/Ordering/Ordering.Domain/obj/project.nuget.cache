@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nz9lehvdGguJnV7zXeTH+LQtrcLk7HWsM90jHb6eSmwh8h9gGqZ+8hMG2HG3R3VkAV1oLeOxguryBGXf33+FQQ==",
+  "dgSpecHash": "Nd+9cP0pqJtVhzHWYoxbGZ4q4KXd8V8QUwBYbAKhrQkHW+CSSITtsQyUpSqTHvqhGQIZVPp8u588aa+Jy8SmIQ==",
   "success": true,
-  "projectFilePath": "G:\\Works\\IranStore\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+  "projectFilePath": "C:\\Personel\\Projects\\IranStore\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
